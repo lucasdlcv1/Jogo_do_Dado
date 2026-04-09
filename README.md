@@ -1,6 +1,6 @@
 # Corrida de Dados
 
-![Jogododado](./DOCS/Jogododado.gif)
+![Jogododado](./JogodoDado.ConsoleApp1/DOCS/Jogododado.gif)
 
 Jogo desenvolvido no curso de Back-End da [Academia do Programador](https://academiadoprogramador.net) 2026
 # Introdução
